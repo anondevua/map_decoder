@@ -1,0 +1,6 @@
+__pycache__
+
+*.waylist
+*.pointlist
+
+out.log
